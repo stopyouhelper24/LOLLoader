@@ -1,2 +1,2 @@
-# LOLLoader
-Can Load Old Sebs SW CV Shit using Dlls
+# Converter
+Converter can convert older version files to Newer and working files.
